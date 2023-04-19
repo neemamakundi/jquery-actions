@@ -1,0 +1,15 @@
+#myButton{
+    background:#0066CC;
+    padding:10px;
+    text-decoration:none;
+    border:2px solid #fd1d1d;
+    border-radius:13px;
+    margin: 13px 13px;
+}
+
+
+#mybutton:hover{
+background-color: aliceblue;
+color:black;
+
+}
